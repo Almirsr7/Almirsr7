@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "240px" height = "320px" align = "right"/>
+<img src = "banner.gif" width = "280px" height = "380px" align = "right"/>
 
 # 📈 Olá, Bem-vindo(a) ao meu GitHub! ❤
 
