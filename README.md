@@ -2,7 +2,7 @@
 
 # 📈 Olá, Bem-vindo(a) ao meu GitHub! ❤
 
-Sou desenvolvedor web, e estou avançando conhecendo mais tecnologias que contribuam para a comunidade e o mundo!
+Sou desenvolvedor web, e estou avançando no conhecimento de mais tecnologias que contribuam para a comunidade e o mundo!
 
 - ❤ Estudante de Desenvolvimento Web.
 - 💜 Fã da DevClub.
