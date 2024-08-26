@@ -1,6 +1,6 @@
-<img src = "banner.gif" width = "220px" height = "280px" align = "right"/>
+<img src = "banner.gif" width = "350px" height = "480px" align = "right"/>
 
-# Olá, Bem-vindo(a) ao meu GitHub! ❤
+# 📈 Olá, Bem-vindo(a) ao meu GitHub! ❤
 
 Sou desenvolvedor web, e estou avançando conhecendo mais tecnologias que contribuam para a comunidade e o mundo!
 
