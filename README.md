@@ -22,9 +22,9 @@ Sou desenvolvedor web, e estou avançando no conhecimento de mais tecnologias qu
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="40" width="80" /></a>
-<a href="your link" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" height="40" width="80" /></a>
-<a href="your link" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="40" width="80" /></a>
- <a href="your link" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" height="40" width="80" /></a>
+<a href="your link" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" title="Linkedin" height="40" width="80" /></a>
+<a href="your link" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" title="Instagram" height="40" width="80" /></a>
+<a href="your link" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" title="Gmail" height="40" width="80" /></a>
+<a href="your link" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="" height="40" width="80" /></a>
 </p>
 
