@@ -1,7 +1,7 @@
-<img src = "banner.gif" width = "150px" align = "right"/>
-
 # 📈 Olá, Bem-vindo(a) ao meu GitHub! ❤
 
+ <p><img src = "banner.gif" width = "250px" /></p>
+ 
 Sou desenvolvedor web, e estou avançando no conhecimento de mais tecnologias que contribuam para a comunidade e o mundo!
 
 - ❤ Estudante de Desenvolvimento Web.
