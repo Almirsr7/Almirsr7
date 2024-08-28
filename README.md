@@ -6,7 +6,7 @@ Sou desenvolvedor web, e estou avançando no conhecimento de mais tecnologias qu
 
 - ❤ Estudante de Desenvolvimento Web.
 - 💜 Fã da DevClub.
-- 👩‍💻 Aprendendo algo sobre front-end.
+- 👩‍💻 Estudando front-end.
 
 <h3>Aqui estão algumas das tecnologias com que trabalho:</h3>
 
