@@ -31,8 +31,8 @@ I'm a web developer, and I'm advancing in my knowledge of more technologies that
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almirsr7&show_icons=true&theme=github_dark&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=almirsr7&show_icons=true&show_icons=true&theme=github_dark&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almirsr7&show_icons=true&theme=codeSTACKr&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=almirsr7&show_icons=true&show_icons=true&theme=codeSTACKr&count_private=true" />
 </div>
 
 
