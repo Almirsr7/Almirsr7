@@ -22,7 +22,6 @@ Sou desenvolvedor web, e estou avançando no conhecimento de mais tecnologias qu
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/almir-ramos-7344962b3" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" title="Linkedin" height="40" width="80" /></a>
-<a href="ramosalmir73@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" title="Gmail" height="40" width="80" /></a>
+<a href="https://www.linkedin.com/in/almir-ramos-7344962b3" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" title="Linkedin" height="35" width="90" /></a>
+<a href="https://www.instagram.com/almirramos77/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" title="Instagram" height="35" width="90" /></a>
 </p>
-
