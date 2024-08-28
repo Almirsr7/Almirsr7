@@ -32,7 +32,7 @@ I'm a web developer, and I'm advancing in my knowledge of more technologies that
 
 <div align = "center">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almirsr7&show_icons=true&theme=codeSTACKr&count_private=true&size_weight=1.0&count_weight=1.0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almirsr7&show_icons=true&theme=codeSTACKr&count_private=true&size_weight=1.0&count_weight=1.0)](https://github.com/anuraghazra/github-readme-stats)
 [![Almir GitHub stats](https://github-readme-stats.vercel.app/api?username=Almirsr7&show_icons=true&show_icons=true&theme=codeSTACKr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
