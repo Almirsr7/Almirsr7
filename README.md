@@ -24,7 +24,7 @@ I'm a web developer, and I'm advancing in my knowledge of more technologies that
 <div>
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/almir-ramos-7344962b3" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" title="Linkedin" height="35" width="90" /></a>
+<a href="https://www.linkedin.com/in/almir-ramosdev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" title="Linkedin" height="35" width="90" /></a>
 <a href="https://www.instagram.com/almirramos77/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" title="Instagram" height="35" width="90" /></a>
 </div>
 
